@@ -1,8 +1,9 @@
-const expres = require('express'); 
-const dotenv = rquire('dotenv').config();
+const express = require('express'); 
+const dotenv = require('dotenv').config();
 
 const app = express(); 
 app.use(express.static('public'));
+
 
 const PORT = process.env.PORT || 5000; 
 
