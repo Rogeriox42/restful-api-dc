@@ -1,0 +1,5 @@
+hahaha
+this is a text coming from VI
+this is a second line because I couldn't exit on the 1s
+This is a 3rd line because I understood how to use VI!
+"A small step for man, but a giant leap for humanity"
