@@ -1,0 +1,27 @@
+{
+  "name": "restful_api_dc",
+  "version": "1.0.0",
+  "description": "Restful NodeJS API using DC Comics Characters",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrdRodrigues/restful-api-dc.git"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "nodejs",
+    "dc",
+    "comics",
+    "lrdrodrigues"
+  ],
+  "author": "lrdrodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrdRodrigues/restful-api-dc/issues"
+  },
+  "homepage": "https://github.com/lrdRodrigues/restful-api-dc#readme"
+}
